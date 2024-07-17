@@ -1,6 +1,7 @@
 # Youtube_Video_Summarizer
 
-Overview
+#Overview
+
 This project leverages advanced NLP techniques to automatically summarize YouTube videos using the Gemma2 model. The summarization process is powered by Google Colab and enhanced with the LLM (Large Language Model) framework supported by Ollama.
 
 Features:
